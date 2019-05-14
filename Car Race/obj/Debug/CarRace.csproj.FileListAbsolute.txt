@@ -1,0 +1,10 @@
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\obj\Debug\CarRace.csprojAssemblyReference.cache
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\bin\Debug\Car Racer.exe.config
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\bin\Debug\Car Racer.exe
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\bin\Debug\Car Racer.pdb
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\obj\Debug\Car_Race.Form1.resources
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\obj\Debug\Car_Race.Properties.Resources.resources
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\obj\Debug\CarRace.csproj.GenerateResource.cache
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\obj\Debug\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\obj\Debug\Car Racer.exe
+C:\Users\brarj\OneDrive\Desktop\Car-Race-master\Car Race\obj\Debug\Car Racer.pdb
